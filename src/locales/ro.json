@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "about": "Despre",
+    "services": "Servicii",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "CoffeeCoder",
+    "subtitle": "Website-uri & Landing Pages cu Calitate Premium"
+  },
+  "about": {
+    "title": "Despre Mine",
+    "description": "Creăm experiențe web unice cu efecte 3D și animații spectaculoase."
+  },
+  "services": {
+    "title": "Servicii",
+    "basic": "Pachet Basic",
+    "premium": "Pachet Premium",
+    "enterprise": "Pachet Enterprise"
+  },
+  "footer": {
+    "contact": "Contact",
+    "rights": "Toate drepturile rezervate"
+  }
+}

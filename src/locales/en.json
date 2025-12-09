@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "CoffeeCoder",
+    "subtitle": "Premium Quality Websites & Landing Pages"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "We create unique web experiences with 3D effects and spectacular animations."
+  },
+  "services": {
+    "title": "Services",
+    "basic": "Basic Package",
+    "premium": "Premium Package",
+    "enterprise": "Enterprise Package"
+  },
+  "footer": {
+    "contact": "Contact",
+    "rights": "All rights reserved"
+  }
+}

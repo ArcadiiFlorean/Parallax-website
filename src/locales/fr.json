@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "CoffeeCoder",
+    "subtitle": "Sites Web & Pages d'atterrissage de qualité premium"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "description": "Nous créons des expériences web uniques avec des effets 3D et des animations spectaculaires."
+  },
+  "services": {
+    "title": "Services",
+    "basic": "Forfait Basic",
+    "premium": "Forfait Premium",
+    "enterprise": "Forfait Enterprise"
+  },
+  "footer": {
+    "contact": "Contact",
+    "rights": "Tous droits réservés"
+  }
+}
